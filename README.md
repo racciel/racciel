@@ -44,3 +44,8 @@ If you're working on something at the crossroads of tech and human cognition, I'
 - 💼 [LinkedIn](https://www.linkedin.com/in/andreas-leja/)
 <!--- 🧠 [Thesis Topic (student ethics in analytics)](https://example.com) *(add this if you publish it!)*-->
 - 🌱 Always learning, always building
+
+---
+![Racciel's GitHub stats](https://github-readme-stats.vercel.app/api?username=racciel&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=racciel&size_weight=0.5&count_weight=0.5&hide=jupyter%20notebook,html,css&theme=tokyonight)
