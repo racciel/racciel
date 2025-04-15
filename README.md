@@ -41,9 +41,21 @@ If you're working on something at the crossroads of tech and human cognition, I'
 
 ## 📫 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/andreas-leja/)
-<!--- 🧠 [Thesis Topic (student ethics in analytics)](https://example.com) *(add this if you publish it!)*-->
-- 🌱 Always learning, always building
+<p align="left">
+  <a href="https://linkedin.com/in/andreas-leja" target="blank"><img align="center" src="https://github.com/racciel/racciel/blob/main/assets/icons8-linkedin-material-rounded/icons8-linkedin-384.svg" alt="andreas-leja" height="50" width="50" /></a>
+  <a href="https://x.com/Racciel_vevo" target="blank"><img align="center" src="https://github.com/racciel/racciel/blob/main/assets/icons8-x-material/icons8-x.svg" alt="andreas-leja" height="50" width="50" /></a>
+  <a href="https://bsky.app/profile/racciel.bsky.social" target="blank"><img align="center" src="https://github.com/racciel/racciel/blob/main/assets/icons8-bluesky-material-filled/icons8-bluesky-24.svg" alt="racciel" height="50" width="50" /></a>
+  <a href="https://www.reddit.com/user/Racciel/" target="blank"><img align="center" src="https://github.com/racciel/racciel/blob/main/assets/icons8-reddit-material-filled/icons8-reddit-24.svg" alt="Racciel" height="50" width="50" /></a>
+  <a href="https://www.youtube.com/@raccielwastaken" target="blank"><img align="center" src="https://github.com/racciel/racciel/blob/main/assets/icons8-youtube-material-filled/icons8-youtube-24.svg" alt="raccielwastaken" height="50" width="50" /></a>
+</p>
+  <!--
+  
+  
+  -->
+
+<!--- - 💼 [LinkedIn](https://www.linkedin.com/in/andreas-leja/)
+ 🧠 [Thesis Topic (student ethics in analytics)](https://example.com) *(add this if you publish it!)*
+- 🌱 Always learning, always building-->
 
 ---
 ![Racciel's GitHub stats](https://github-readme-stats.vercel.app/api?username=racciel&show_icons=true&theme=tokyonight)
